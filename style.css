@@ -1,0 +1,13 @@
+body {
+
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a {
+    background-color: red;
+    color: white;
+}
+a:hover{
+    background-color: blue;
+}
